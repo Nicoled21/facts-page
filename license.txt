@@ -4,7 +4,6 @@
 Copyright (c) 2019 by Nicole D. (https://codepen.io/nicoled21/pen/rNBwMBp)
 
 
-Fork of an original work by freeCodeCamp (https://codepen.io/freeCodeCamp/pen/zNqgVx)
 
 
 
